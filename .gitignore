@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.env
+.venv/
+venv/
+*.skill
+# yomiyasu_check.py の検査記録（フォルダの中に自動の .gitignore もある）
+.yomiyasu/
